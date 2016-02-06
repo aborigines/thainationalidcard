@@ -6,7 +6,7 @@
 
 # Credit
 
-* ADPU Command from https://github.com/chakphanu/ThaiNationalIDCard (c# project)
+* APDU Command from https://github.com/chakphanu/ThaiNationalIDCard (c# project)
 
 # License
 
