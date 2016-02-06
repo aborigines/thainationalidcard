@@ -9,6 +9,7 @@
   "author": "Watcharapol Tadtiang",
   "license": "ISC",
   "dependencies": {
+    "bufferstream": "^0.6.2",
     "pcsclite": "^0.4.8"
   }
 }
