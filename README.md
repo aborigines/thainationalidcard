@@ -1,7 +1,7 @@
 # Thai National ID Card
 
 ### example reading public data
-* java (v1.8)
+* java (v1.8 with netbean)
 * nodejs (v5.5)
 
 # Credit
