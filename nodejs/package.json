@@ -1,0 +1,14 @@
+{
+  "name": "thainationid",
+  "version": "1.0.0",
+  "description": "reading thai nation id (smartcard)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Watcharapol Tadtiang",
+  "license": "ISC",
+  "dependencies": {
+    "pcsclite": "^0.4.8"
+  }
+}
